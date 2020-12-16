@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
+My website is just absolutely amazing. Please give me a good grade. I am begging. On the index page I put an image of AKFC-47. His image also has a bunch of other names that people decided to give him. I made the image bigger to look better. Then, I made the logo image smaller to make sure you could see the words. On the contact page, I put my email address. I made the background of the page green and I made the text on the page red. On the about page, I put what I like and what I did in basketball last week. 
